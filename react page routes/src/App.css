@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  border: 0;
+  font-family: sans-serif;
+}
+
+.h1-main nav {
+  display: grid;
+  grid-template-columns: 240px 3fr;
+  grid-template-rows: auto;
+  padding-bottom: 20px;
+  border-bottom: solid;
+  margin-bottom: 30px;
+}
+.h1-main {
+  color: rgb(86, 15, 15);
+  font-size: 2rem;
+  display: flex;
+}
